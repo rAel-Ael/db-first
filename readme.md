@@ -1,7 +1,13 @@
 # Database: Gestione Auto Usate 
 
-## 1. Tabella: `Marche`
-| Nome Colonna | Tipo | Attributi | Indici |
+## 1. Tabella: `lista macchine`
+| Nome Colonna | nome Colonna | Colonna | Tipo | Attributi | Indici |
 | ---- | ---- | ---- | ---- | ---- |
-| nome macchina | varchar(50) | not null | index |
+| nome marca macchina | nome modello | varchar(50) | not null | index |
+
+
+
+
+
+
 
